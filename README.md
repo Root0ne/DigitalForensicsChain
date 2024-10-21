@@ -15,7 +15,7 @@ Dijital adli bilişim sürecindeki delillerin tüm aşamalar boyunca güvenli bi
 
 ## Giriş
 
-Bu proje, dijital adli bilişim sürecindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform uygular. Akıllı kontratlar kullanarak, sistem delil karartmayı önlemeyi, şeffaflığı sağlamayı ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmayı hedefler.
+Bu proje, adli bilişim süreçlerindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform uygular. Akıllı kontratlar kullanarak, sistem delil karartmayı önlemeyi, şeffaflığı sağlamayı ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmayı hedefler.
 
 ## Proje Özeti
 
