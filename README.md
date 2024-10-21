@@ -15,11 +15,11 @@ Adli bilişim sürecindeki delillerin tüm aşamalar boyunca güvenli bir şekil
 
 ## Giriş
 
-Bu proje, adli bilişim sürecindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform uygular. Akıllı kontratlar kullanarak, sistem delil karartmayı önlemeyi, şeffaflığı sağlamayı ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmayı hedefler.
+Bu proje, adli bilişim sürecindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform önerisi barındırmaktadır. Akıllı kontratlar kullanarak, delil karartmayı önlemek, şeffaflığı sağlamak ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmak hedeflenmektedir.
 
 ## Proje Özeti
 
-`DigitalForensicsChain.sol` akıllı kontratı Solidity dilinde yazılmış olup, farklı katılımcılar için rollerin yönetilmesi amacıyla rol tabanlı erişim kontrolü kullanır. Kontrat, delil ve rapor verilerini dört ana aşamada kaydeder:
+`DigitalForensicsChain.sol` akıllı kontrat Solidity dilinde yazılmış olup, farklı katılımcılar için rollerin yönetilmesi amacıyla rol tabanlı erişim kontrolü kullanır. Kontrat, delil ve rapor verilerini dört ana aşamada kaydeder:
 
 1. **Tanımlama Aşaması**: Olay yerinden delillerin toplanması ve kaydedilmesi.
 2. **İnceleme Aşaması**: Delillerin ön analizi ve imajlarının alınması.
