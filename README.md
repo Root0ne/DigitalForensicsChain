@@ -35,7 +35,9 @@ Bu proje, dijital adli bilişim sürecindeki delillerin güvenliğini ve bütün
 
 ## Kontrat
 
-Bu kontrar, yerel çalışma ortamında derlenip çalıştırılacağı gibi [Remix IDE](https://remix.ethereum.org/) kullanılarak da online olarak derlenebilir.
+Bu kontrat, yerel çalışma ortamında derlenip çalıştırılacağı gibi [Remix IDE](https://remix.ethereum.org/) kullanılarak da online olarak derlenebilir.
+
+Yerelde çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
 ### Gereksinimler
 
