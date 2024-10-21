@@ -1,6 +1,6 @@
 # Adli Bilişim Süreçlerinde Blok Zinciri Teknolojisinin Uygulanması (DEMO)
 
-Dijital adli bilişim sürecindeki delillerin tüm aşamalar boyunca güvenli bir şekilde yönetilmesi için blok zinciri tabanlı bir platform.
+Adli bilişim sürecindeki delillerin tüm aşamalar boyunca güvenli bir şekilde yönetilmesi için blok zinciri tabanlı bir platform.
 
 ## İçindekiler
 
@@ -15,7 +15,7 @@ Dijital adli bilişim sürecindeki delillerin tüm aşamalar boyunca güvenli bi
 
 ## Giriş
 
-Bu proje, adli bilişim süreçlerindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform uygular. Akıllı kontratlar kullanarak, sistem delil karartmayı önlemeyi, şeffaflığı sağlamayı ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmayı hedefler.
+Bu proje, adli bilişim sürecindeki delillerin güvenliğini ve bütünlüğünü artırmak amacıyla blok zinciri tabanlı bir platform uygular. Akıllı kontratlar kullanarak, sistem delil karartmayı önlemeyi, şeffaflığı sağlamayı ve dijital deliller için doğrulanabilir bir muhafaza zinciri sunmayı hedefler.
 
 ## Proje Özeti
 
